@@ -12,7 +12,7 @@ This project is a JavaScript implementation of the classic 2048 game, a popular 
 - **Responsive Controls**: The game can be played using the arrow keys on your keyboard.
 - **Restart Functionality**: Players can restart the game at any time, resetting the board and score.
 - **UI Interaction**: A dynamic interface with a start and restart button, win/lose messages, and real-time score updates.
-- **Technologies Used**
+- # Technologies Used
 - **JavaScript**: The core logic of the game is implemented in JavaScript, including game state management and user interactions.
 - **HTML/CSS**: The structure and design of the game board, tiles, and user interface elements are created using HTML and CSS.
 # Deployment
