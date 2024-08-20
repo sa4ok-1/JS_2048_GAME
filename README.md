@@ -1,4 +1,4 @@
-#2048 Game
+2048 Game
 Overview
 This project is a JavaScript implementation of the classic 2048 game, a popular sliding puzzle game originally created by Gabriele Cirulli. The objective of the game is to slide numbered tiles on a 4x4 grid to combine them and create a tile with the number 2048. The game is fully functional, featuring a dynamic UI, responsive controls, and game state management.
 
